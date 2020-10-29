@@ -1,0 +1,12 @@
+"Information"
+{
+	"Version"
+	{
+		"Latest"	"999.0"
+	}
+}
+	
+"Files"
+{
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/DrugsDealer.txt"
+}

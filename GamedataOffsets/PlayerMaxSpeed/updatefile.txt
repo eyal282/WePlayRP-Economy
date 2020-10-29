@@ -1,4 +1,0 @@
-"Files"
-{
-	"Plugin"	"Path_SM/gamedata/PlayerMaxSpeedOffset.txt"
-}
