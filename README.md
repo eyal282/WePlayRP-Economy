@@ -1,2 +1,3 @@
-# AlliedmodsUpdater
-Files to auto update servers using Updater.
+# הכלכלה של הרולפליי מבוססת על הקבצים שפה.
+
+:D
