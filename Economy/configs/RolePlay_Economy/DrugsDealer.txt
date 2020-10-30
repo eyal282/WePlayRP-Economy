@@ -1,5 +1,23 @@
 "Drugs Dealer"
 {
+	
+	"MIN_PLAYERS_COCAINE"			"8"
+	
+	"PLANT_SEED_LVL_#0"				"6"
+	"PLANT_SEED_LVL_#1"				"6"
+	"PLANT_SEED_LVL_#2"				"6"
+	"PLANT_SEED_LVL_#3"				"7"
+	"PLANT_SEED_LVL_#4"				"8"
+	"PLANT_SEED_LVL_#5"				"10"
+	
+	"JOB_NAME_LVL_#0"				"Junkie"
+	"JOB_NAME_LVL_#1"				"Nacro"
+	"JOB_NAME_LVL_#2"				"Drug Dealer"
+	"JOB_NAME_LVL_#3"				"Drug Maker"
+	"JOB_NAME_LVL_#4"				"Smuggler"
+	"JOB_NAME_LVL_#5"				"Cartel"
+	
+	
 	"PLANT_NAME_#0"					"Ritalin Seeds"
 	"PLANT_SHORTNAME_#0"			"RITS"
 	"PLANT_PRICE_#0"				"150"
