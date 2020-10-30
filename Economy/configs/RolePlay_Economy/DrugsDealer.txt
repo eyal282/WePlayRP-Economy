@@ -2,7 +2,7 @@
 {
 	"PLANT_NAME_#0"					"Ritalin Seeds"
 	"PLANT_SHORTNAME_#0"			"RITS"
-	"PLANT_PRICE_#0"				"151"
+	"PLANT_PRICE_#0"				"152"
 	"PLANT_KARMA_ON_PLANT_#0"		"0"
 	"PLANT_KARMA_ON_HARVEST_#0"		"0"
 	"PLANT_MAX_KARMA_#0"			"0"
