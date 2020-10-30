@@ -14,4 +14,5 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Hitman.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Lawyer.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Medic.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/Police.txt"
 }
