@@ -12,4 +12,5 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Hacker.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Plague.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Hitman.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/Lawyer.txt"
 }
