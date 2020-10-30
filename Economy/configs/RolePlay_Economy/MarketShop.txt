@@ -1,4 +1,4 @@
-"Drugs Dealer"
+"Market Shop"
 {
 	
 	"MIN_PLAYERS_COCAINE"			"8"
