@@ -3,6 +3,10 @@
 	
 	"HITMAN_PRICE"					"1500"
 	
+	"HITMAN_TIME"					"60"
+	
+	"HITMAN_PROTECTION_TIME"			"120"
+	
 	"CASH_BONUS_LVL_#0"				"400"
 	"CASH_BONUS_LVL_#1"				"550"
 	"CASH_BONUS_LVL_#2"				"700"
