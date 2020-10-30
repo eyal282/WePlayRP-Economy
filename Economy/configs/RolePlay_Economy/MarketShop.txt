@@ -1,36 +1,50 @@
 "Market Shop"
 {
+	"MAX_FOOD"			"2147483647"
+	"FOOD_SELL_MULTIPLIER"		"0.6"
+
+	"FOOD_STORE_ROB_TIME"		"60"
+	"FOOD_STORE_ROB_KARMA"		"1290"
+	"FOOD_STORE_MAX_KARMA"		"1399"
+
+	// Amount of items robbed from the market shop.
+	"THIEF_ROB_ITEMS_LVL_#0"				"2"
+	"THIEF_ROB_ITEMS_LVL_#1"				"3"
+	"THIEF_ROB_ITEMS_LVL_#2"				"4"
+	"THIEF_ROB_ITEMS_LVL_#3"				"6"
+	"THIEF_ROB_ITEMS_LVL_#4"				"7"
+	"THIEF_ROB_ITEMS_LVL_#5"				"10"
 	
-	"MIN_PLAYERS_COCAINE"			"8"
+	// Minimum amount of cash each rob can give you.
+	"THIEF_MIN_ROB_REWARD_LVL_#0"				"100"
+	"THIEF_MIN_ROB_REWARD_LVL_#1"				"200"
+	"THIEF_MIN_ROB_REWARD_LVL_#2"				"300"
+	"THIEF_MIN_ROB_REWARD_LVL_#3"				"400"
+	"THIEF_MIN_ROB_REWARD_LVL_#4"				"500"
+	"THIEF_MIN_ROB_REWARD_LVL_#5"				"800"
 	
-	"PLANT_SEED_LVL_#0"				"6"
-	"PLANT_SEED_LVL_#1"				"6"
-	"PLANT_SEED_LVL_#2"				"6"
-	"PLANT_SEED_LVL_#3"				"7"
-	"PLANT_SEED_LVL_#4"				"8"
-	"PLANT_SEED_LVL_#5"				"10"
-	
-	"JOB_NAME_LVL_#0"				"Junkie"
-	"JOB_NAME_LVL_#1"				"Nacro"
-	"JOB_NAME_LVL_#2"				"Drug Dealer"
-	"JOB_NAME_LVL_#3"				"Drug Maker"
-	"JOB_NAME_LVL_#4"				"Smuggler"
-	"JOB_NAME_LVL_#5"				"Cartel"
-	
-	"ITEM_NAME_#0"					"Falafel"
-	"ITEM_SHORTNAME_#0"				"FALAFEL"
-	"ITEM_PRICE_#0"					"250"
-	"ITEM_HP_#0"					"3"
-	
-	"ITEM_NAME_#0"					"Hotdog"
-	"ITEM_SHORTNAME_#0"				"HOTDOG"
-	"ITEM_PRICE_#0"					"450"
-	"ITEM_HP_#0"					"5"
+	// Maximum amount of cash each rob can give you.
+	"THIEF_MAX_ROB_REWARD_LVL_#0"				"200"
+	"THIEF_MAX_ROB_REWARD_LVL_#1"				"400"
+	"THIEF_MAX_ROB_REWARD_LVL_#2"				"600"
+	"THIEF_MAX_ROB_REWARD_LVL_#3"				"800"
+	"THIEF_MAX_ROB_REWARD_LVL_#4"				"1000"
+	"THIEF_MAX_ROB_REWARD_LVL_#5"				"2000"
 	
 	"ITEM_NAME_#0"					"Jahnun"
 	"ITEM_SHORTNAME_#0"				"JAHNUN"
 	"ITEM_PRICE_#0"					"50"
 	"ITEM_HP_#0"					"1"
+	
+	"ITEM_NAME_#1"					"Falafel"
+	"ITEM_SHORTNAME_#1"				"FALAFEL"
+	"ITEM_PRICE_#1"					"250"
+	"ITEM_HP_#1"					"3"
+	
+	"ITEM_NAME_#0"					"Hotdog"
+	"ITEM_SHORTNAME_#0"				"HOTDOG"
+	"ITEM_PRICE_#0"					"450"
+	"ITEM_HP_#0"					"5"
 
 	"ITEM_NAME_#0"					"Schnitzel"
 	"ITEM_SHORTNAME_#0"				"SCHNITZEL"
