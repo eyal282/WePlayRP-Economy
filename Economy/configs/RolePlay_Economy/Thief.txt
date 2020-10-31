@@ -1,5 +1,7 @@
 "Thief"
 {
+	// Note: There are other keyvalues regarding the thief in the MarketShop and the WeaponsShop
+	
 	"MIN_LEVEL_STEAL_WEAPON"			"2"
 	
 	"STEAL_COOLDOWN"				"60.0"
