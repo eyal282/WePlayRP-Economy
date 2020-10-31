@@ -16,4 +16,6 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Medic.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Police.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Thief.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/WeaponsShop.txt"
+	
 }
