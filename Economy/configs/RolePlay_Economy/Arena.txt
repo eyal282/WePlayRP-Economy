@@ -1,0 +1,48 @@
+"Weapons Shop"
+{
+	"COOLDOWN_BETWEEN_CRAFTS"			"2147483647"
+	"TIME_TO_BUILD_WEAPON"		"60"
+	"WEAPON_SELL_MULTIPLIER"	"0.6"
+	
+	"WEP_STORE_ROB_TIME"			"60"
+	"WEP_STORE_ROB_KARMA"			"1600"
+	"WEP_STORE_MAX_KARMA"			"1800"
+	"MIN_PLAYERS_ROB"				"6"
+	"ROB_COOLDOWN"					"1500.0"
+	"ROB_FAIL_COOLDOWN"				"300.0"
+	
+	// Materials will NEVER be added or removed. Only repriced.
+	"MATERIAL_NAME_#0"					"Wood"
+	"MATERIAL_SHORTNAME_#0"				"WOOD"
+	"MATERIAL_PRICE_#0"					"25"
+	
+	"MATERIAL_NAME_#1"					"Metal"
+	"MATERIAL_SHORTNAME_#1"				"METAL"
+	"MATERIAL_PRICE_#1"					"50"
+	
+	"MATERIAL_NAME_#2"					"Iron"
+	"MATERIAL_SHORTNAME_#2"				"IRON"
+	"MATERIAL_PRICE_#2"					"75"
+	
+	
+	"WEAPON_NAME_#0"					"Negev"
+	"WEAPON_SHORTNAME_#0"				"NEGEV"
+	"WEAPON_CLASSNAME_#0"				"weapon_negev"
+	"WEAPON_PRICE_#0"					"2147483647"
+	"WEAPON_WOOD_COST_#0"				"10"
+	"WEAPON_METAL_COST_#0"				"10"
+	"WEAPON_IRON_COST_#0"				"10"
+	"WEAPON_CRAFT_PROFIT_#0"			"-5000"
+	"WEAPON_IS_RIFLE_#0"				"1"
+	
+	"WEAPON_NAME_#1"					"Glock-18"
+	"WEAPON_SHORTNAME_#1"				"GLOCK"
+	"WEAPON_CLASSNAME_#1"				"weapon_glock"
+	"WEAPON_PRICE_#1"					"100"
+	"WEAPON_WOOD_COST_#1"				"5"
+	"WEAPON_METAL_COST_#1"				"5"
+	"WEAPON_IRON_COST_#1"				"5"
+	"WEAPON_CRAFT_PROFIT_#1"			"3000"
+	"WEAPON_IS_RIFLE_#1"				"0"
+	
+}
