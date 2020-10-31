@@ -1,48 +1,49 @@
-"Weapons Shop"
+"Arena"
 {
-	"COOLDOWN_BETWEEN_CRAFTS"			"2147483647"
-	"TIME_TO_BUILD_WEAPON"		"60"
-	"WEAPON_SELL_MULTIPLIER"	"0.6"
+	// Delay in seconds between each arena in weekday ( Sunday to Thursday )
+	"ARENA_DELAY_WEEKDAY"	 	"2700"
 	
-	"WEP_STORE_ROB_TIME"			"60"
-	"WEP_STORE_ROB_KARMA"			"1600"
-	"WEP_STORE_MAX_KARMA"			"1800"
-	"MIN_PLAYERS_ROB"				"6"
-	"ROB_COOLDOWN"					"1500.0"
-	"ROB_FAIL_COOLDOWN"				"300.0"
+	// Delay in seconds between each arena in weekends ( Friday, Saturday )
+	"ARENA_DELAY_WEEKEND"		"2300"
 	
-	// Materials will NEVER be added or removed. Only repriced.
-	"MATERIAL_NAME_#0"					"Wood"
-	"MATERIAL_SHORTNAME_#0"				"WOOD"
-	"MATERIAL_PRICE_#0"					"25"
+	"MIN_ARENA_REWARD"		"5000"
+	"MAX_ARENA_REWARD"		"12500"
+
+	"MIN_JOTD_EXP"			"10"
+	"MAX_JOTD_EXP"			"30"
 	
-	"MATERIAL_NAME_#1"					"Metal"
-	"MATERIAL_SHORTNAME_#1"				"METAL"
-	"MATERIAL_PRICE_#1"					"50"
-	
-	"MATERIAL_NAME_#2"					"Iron"
-	"MATERIAL_SHORTNAME_#2"				"IRON"
-	"MATERIAL_PRICE_#2"					"75"
-	
-	
-	"WEAPON_NAME_#0"					"Negev"
-	"WEAPON_SHORTNAME_#0"				"NEGEV"
-	"WEAPON_CLASSNAME_#0"				"weapon_negev"
-	"WEAPON_PRICE_#0"					"2147483647"
-	"WEAPON_WOOD_COST_#0"				"10"
-	"WEAPON_METAL_COST_#0"				"10"
-	"WEAPON_IRON_COST_#0"				"10"
-	"WEAPON_CRAFT_PROFIT_#0"			"-5000"
-	"WEAPON_IS_RIFLE_#0"				"1"
-	
-	"WEAPON_NAME_#1"					"Glock-18"
-	"WEAPON_SHORTNAME_#1"				"GLOCK"
-	"WEAPON_CLASSNAME_#1"				"weapon_glock"
-	"WEAPON_PRICE_#1"					"100"
-	"WEAPON_WOOD_COST_#1"				"5"
-	"WEAPON_METAL_COST_#1"				"5"
-	"WEAPON_IRON_COST_#1"				"5"
-	"WEAPON_CRAFT_PROFIT_#1"			"3000"
-	"WEAPON_IS_RIFLE_#1"				"0"
-	
+
+new Float:arenaSpawnPoints[64][3] =
+{
+	{-11268.388672, -9814.198242, -11614.206055},
+    {-11320.545898, -7486.844238, -11614.206055},
+    {-11251.803711, -5243.120605, -11614.206055},
+    {-8901.424805, -5162.935059, -11614.206055},
+    {-6709.352051, -5226.755859, -11614.206055},
+    {-6655.692871, -7560.449707, -11614.206055},
+    {-6712.750488, -9787.047852, -11614.206055},
+    {-8963.664063, -9856.335938, -11614.206055}
+};
+new g_GlowColors[8][3] =
+{
+	{255, 0, 0},
+	{255, 128, 0},
+	{255, 255, 0},
+	{128, 255, 0},
+	{51, 255, 255},
+	{153, 51, 255},
+	{255, 51, 255},
+	{128, 255, 0}
+};
+new String:g_GlowNames[8][] =
+{
+	"Red",
+	"Orange",
+	"Yellow",
+	"Green",
+	"Light Blue",
+	"Purple",
+	"Pink",
+	"Grey"
+};
 }
