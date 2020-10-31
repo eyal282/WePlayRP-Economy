@@ -1,0 +1,6 @@
+"Arena"
+{
+	"HACKER_PROTECTION_TIME"	 "180"
+	"HACKER_COOLDOWN_TIME"		"30"
+	
+}
