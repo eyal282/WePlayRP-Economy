@@ -26,12 +26,12 @@
 	"JOB_NAME_LVL_#5"			"Master Crafter"
 	
 	// Amount of items robbed from the weapon store.
-	"THIEF_ROB_ITEMS_LVL_#0"			"2"
-	"THIEF_ROB_ITEMS_LVL_#1"			"3"
-	"THIEF_ROB_ITEMS_LVL_#2"			"4"
-	"THIEF_ROB_ITEMS_LVL_#3"			"5"
-	"THIEF_ROB_ITEMS_LVL_#4"			"6"
-	"THIEF_ROB_ITEMS_LVL_#5"			"8"
+	"THIEF_ROB_ITEMS_LVL_#0"			"6"
+	"THIEF_ROB_ITEMS_LVL_#1"			"9"
+	"THIEF_ROB_ITEMS_LVL_#2"			"12"
+	"THIEF_ROB_ITEMS_LVL_#3"			"15"
+	"THIEF_ROB_ITEMS_LVL_#4"			"18"
+	"THIEF_ROB_ITEMS_LVL_#5"			"24"
 
 	// This is the materials that a weapon requires to be stolen. For example if a player's value is 12 and AK-47 requires 13 of either material, it cannot be stolen.
 	"THIEF_ROB_MAX_MATERIALS_LVL_#0"			"12"
