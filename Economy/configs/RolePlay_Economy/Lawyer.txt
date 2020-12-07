@@ -20,7 +20,7 @@
 	"MIN_WAGE_LVL_#0"				"100"
 	"MIN_WAGE_LVL_#1"				"150"
 	"MIN_WAGE_LVL_#2"				"200"
-	"MIN_WAGE_LVL_#3"				"300"
+	"MIN_WAGE_LVL_#3"				"350"
 	"MIN_WAGE_LVL_#4"				"400"
 	"MIN_WAGE_LVL_#5"				"500"
 	"MIN_WAGE_LVL_#6"				"600"
