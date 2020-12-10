@@ -4,11 +4,17 @@
 	"MEDIC_PROFIT_PER_HP"				"10"
 	
 	"HEAL_AMOUNT_LVL_#0"				"35"
-	"HEAL_AMOUNT_LVL_#1"				"45"
-	"HEAL_AMOUNT_LVL_#2"				"55"
-	"HEAL_AMOUNT_LVL_#3"				"65"
-	"HEAL_AMOUNT_LVL_#4"				"75"
-	"HEAL_AMOUNT_LVL_#5"				"100"
+	"HEAL_AMOUNT_LVL_#1"				"40"
+	"HEAL_AMOUNT_LVL_#2"				"45"
+	"HEAL_AMOUNT_LVL_#3"				"50"
+	"HEAL_AMOUNT_LVL_#4"				"55"
+	"HEAL_AMOUNT_LVL_#5"				"60"
+	"HEAL_AMOUNT_LVL_#6"				"75"
+	"HEAL_AMOUNT_LVL_#7"				"80
+	"HEAL_AMOUNT_LVL_#8"				"90"
+	"HEAL_AMOUNT_LVL_#9"				"95"
+	"HEAL_AMOUNT_LVL_#10"				"100"
+	
 	
 	"JOB_NAME_LVL_#0"				"First Aid"
 	"JOB_NAME_LVL_#1"				"Intern"
