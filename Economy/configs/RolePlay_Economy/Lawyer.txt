@@ -36,7 +36,7 @@
 	"MAX_WAGE_LVL_#3"				"700"
 	"MAX_WAGE_LVL_#4"				"850"
 	"MAX_WAGE_LVL_#5"				"1000"
-        "MAX_WAGE_LVL_#6A"				"1200"
+	"MAX_WAGE_LVL_#6"				"1200"
 	"MAX_WAGE_LVL_#7"				"1350"
 	"MAX_WAGE_LVL_#8"				"1500"
 	"MAX_WAGE_LVL_#9"				"1750"
