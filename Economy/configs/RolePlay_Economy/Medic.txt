@@ -22,4 +22,9 @@
 	"JOB_NAME_LVL_#3"				"Paramedic"
 	"JOB_NAME_LVL_#4"				"Doctor"
 	"JOB_NAME_LVL_#5"				"Surgeon"	
-}
+	"JOB_NAME_LVL_#6"				"First Aid"
+	"JOB_NAME_LVL_#7"				"Intern"
+	"JOB_NAME_LVL_#8"				"Nurse"
+	"JOB_NAME_LVL_#9"				"Paramedic"
+	"JOB_NAME_LVL_#10"				"Doctor"
+	
