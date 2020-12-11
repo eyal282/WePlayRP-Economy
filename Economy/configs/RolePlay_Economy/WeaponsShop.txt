@@ -10,6 +10,18 @@
 	"MIN_PLAYERS_ROB"				"2"
 	"ROB_COOLDOWN"					"1500.0"
 	"ROB_FAIL_COOLDOWN"				"300.0"
+
+	"CRAFTER_MAX_MATERIALS_LVL_#0"			"10"
+	"CRAFTER_MAX_MATERIALS_LVL_#1"			"10"
+	"CRAFTER_MAX_MATERIALS_LVL_#2"			"11"
+	"CRAFTER_MAX_MATERIALS_LVL_#3"			"11"
+	"CRAFTER_MAX_MATERIALS_LVL_#4"			"12"
+	"CRAFTER_MAX_MATERIALS_LVL_#5"			"12"
+	"CRAFTER_MAX_MATERIALS_LVL_#6"			"13"
+	"CRAFTER_MAX_MATERIALS_LVL_#7"			"13"
+	"CRAFTER_MAX_MATERIALS_LVL_#8"			"14"
+	"CRAFTER_MAX_MATERIALS_LVL_#9"			"14"
+	"CRAFTER_MAX_MATERIALS_LVL_#10"			"15"
 	
 	"JOB_NAME_LVL_#0"			"Toy Maker"
 	"JOB_NAME_LVL_#1"			"Weapon Maker"
@@ -17,6 +29,11 @@
 	"JOB_NAME_LVL_#3"			"AWP Crafter"
 	"JOB_NAME_LVL_#4"			"Craftsman"
 	"JOB_NAME_LVL_#5"			"Master Crafter"
+	"JOB_NAME_LVL_#6"			"Toy Maker"
+	"JOB_NAME_LVL_#7"			"Weapon Maker"
+	"JOB_NAME_LVL_#8"			"AK-47 Crafter"
+	"JOB_NAME_LVL_#9"			"AWP Crafter"
+	"JOB_NAME_LVL_#10"			"Craftsman"
 	
 	// Amount of items robbed from the weapon store.
 	"THIEF_ROB_ITEMS_LVL_#0"			"5"
