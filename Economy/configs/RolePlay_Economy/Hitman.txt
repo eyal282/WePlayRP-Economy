@@ -40,5 +40,11 @@
 	"JOB_NAME_LVL_#2"				"Sniper"
 	"JOB_NAME_LVL_#3"				"Killer"
 	"JOB_NAME_LVL_#4"				"Assassin"
-	"JOB_NAME_LVL_#5"				"Bounty"	
+	"JOB_NAME_LVL_#5"				"Bounty"
+	"JOB_NAME_LVL_#6"				"Hitman"
+	"JOB_NAME_LVL_#7"				"Gunman"
+	"JOB_NAME_LVL_#8"				"Sniper"
+	"JOB_NAME_LVL_#9"				"Killer"
+	"JOB_NAME_LVL_#10"				"Assassin"
+	
 }

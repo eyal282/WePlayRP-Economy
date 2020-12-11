@@ -26,5 +26,11 @@
 	"JOB_NAME_LVL_#3"				"Sergeant"
 	"JOB_NAME_LVL_#4"				"Lieutenant"
 	"JOB_NAME_LVL_#5"				"S.W.A.T"
+	"JOB_NAME_LVL_#6"				"Cadet"
+	"JOB_NAME_LVL_#7"				"Police Officer"
+	"JOB_NAME_LVL_#8"				"Detective"
+	"JOB_NAME_LVL_#9"				"Sergeant"
+	"JOB_NAME_LVL_#10"				"Lieutenant"
+	
 
 }

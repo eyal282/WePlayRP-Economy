@@ -70,5 +70,12 @@
 	"JOB_NAME_LVL_#3"				"Bandit"
 	"JOB_NAME_LVL_#4"				"Sneak Thief"
 	"JOB_NAME_LVL_#5"				"Swindler"
+	"JOB_NAME_LVL_#6"				"Pick Pocket"
+	"JOB_NAME_LVL_#7"				"Thief"
+	"JOB_NAME_LVL_#8"				"Robber"
+	"JOB_NAME_LVL_#9"				"Bandit"
+	"JOB_NAME_LVL_#10"				"Sneak Thief"
+	
+
 
 }

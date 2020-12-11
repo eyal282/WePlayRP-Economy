@@ -50,6 +50,11 @@
 	"JOB_NAME_LVL_#3"				"Lawyer"
 	"JOB_NAME_LVL_#4"				"Shark"
 	"JOB_NAME_LVL_#5"				"Judge"
+	"JOB_NAME_LVL_#6"				"Jury"
+	"JOB_NAME_LVL_#7"				"Notary"
+	"JOB_NAME_LVL_#8"				"Attorney"
+	"JOB_NAME_LVL_#9"				"Lawyer"
+	"JOB_NAME_LVL_#10"				"Shark"
 	
 	
 }

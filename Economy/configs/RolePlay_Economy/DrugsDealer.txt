@@ -24,6 +24,11 @@
 	"JOB_NAME_LVL_#3"				"Drug Maker"
 	"JOB_NAME_LVL_#4"				"Smuggler"
 	"JOB_NAME_LVL_#5"				"Cartel"
+	"JOB_NAME_LVL_#6"				"Junkie"
+	"JOB_NAME_LVL_#7"				"Nacro"
+	"JOB_NAME_LVL_#8"				"Drug Dealer"
+	"JOB_NAME_LVL_#9"				"Drug Maker"
+	"JOB_NAME_LVL_#10"				"Smuggler"
 	
 	
 	"PLANT_NAME_#0"					"Ritalin Seeds"
