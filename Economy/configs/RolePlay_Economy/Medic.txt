@@ -27,4 +27,4 @@
 	"JOB_NAME_LVL_#8"				"Nurse"
 	"JOB_NAME_LVL_#9"				"Paramedic"
 	"JOB_NAME_LVL_#10"				"Doctor"
-	
+}	
