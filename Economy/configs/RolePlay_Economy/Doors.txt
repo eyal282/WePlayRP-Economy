@@ -1,0 +1,29 @@
+"Hitman"
+{
+	
+	"CRACK_CHANCE_DECREASE_PER_1M"					"5"
+	
+	// Decrease max doesn't work atm, should be the maximum amount of decrease a door can have, which only was needed for the 20m house in westfield.
+	"CRACK_CHANCE_DECREASE_MAX"					"60"
+	
+	// I think this one is for any door that is restricted to VIP.
+	"CRACK_CHANCE_DECREASE_FOR_VIP_DOOR"			"10"
+	
+	// Multiplies the chance to crack a door by this much if it's a door inside the house, rather than the main door.
+	"CRACK_CHANCE_MULTIPLIER_FOR_CONNECTED_DOOR"			"2.0"
+	
+	//Chance to break into a house at every level//
+	
+	"CRACK_CHANCE_LVL_#0"				"25"
+	"CRACK_CHANCE_LVL_#1"				"30"
+	"CRACK_CHANCE_LVL_#2"				"35"
+	"CRACK_CHANCE_LVL_#3"				"40"
+	"CRACK_CHANCE_LVL_#4"				"45"
+	"CRACK_CHANCE_LVL_#5"				"50"
+	"CRACK_CHANCE_LVL_#6"				"55"
+	"CRACK_CHANCE_LVL_#7"				"60"
+	"CRACK_CHANCE_LVL_#8"				"70"
+	"CRACK_CHANCE_LVL_#9"				"80"
+	"CRACK_CHANCE_LVL_#10"				"95"
+	
+}
