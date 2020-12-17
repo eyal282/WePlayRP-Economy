@@ -1,10 +1,10 @@
 "Arena"
 {
 	// Delay in seconds between each arena in weekday ( Sunday to Thursday )
-	"ARENA_DELAY_WEEKDAY"	 	"2700"
+	"ARENA_DELAY_WEEKDAY"	 	"1200"
 	
 	// Delay in seconds between each arena in weekends ( Friday, Saturday )
-	"ARENA_DELAY_WEEKEND"		"2300"
+	"ARENA_DELAY_WEEKEND"		"900"
 	
 	"MIN_ARENA_REWARD"		"5000"
 	"MAX_ARENA_REWARD"		"12500"
