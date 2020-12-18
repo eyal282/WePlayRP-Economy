@@ -3,6 +3,8 @@
 	"MEDIC_PRICE"					"200"
 	"MEDIC_PROFIT_PER_HP"				"10"
 	
+	"HEALTHSHOT_PRICE"				"1000"
+	
 	"HEAL_AMOUNT_LVL_#0"				"35"
 	"HEAL_AMOUNT_LVL_#1"				"40"
 	"HEAL_AMOUNT_LVL_#2"				"45"
