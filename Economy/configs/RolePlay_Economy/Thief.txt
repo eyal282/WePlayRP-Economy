@@ -2,7 +2,7 @@
 {
 	// Note: There are other keyvalues regarding the thief in the MarketShop and the WeaponsShop
 	
-	"MIN_LEVEL_STEAL_WEAPON"			"2"
+	"MIN_LEVEL_STEAL_WEAPON"			"6"
 	
 	"STEAL_COOLDOWN"				"60.0"
 	"FAIL_STEAL_COOLDOWN"				"0.0"
