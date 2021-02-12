@@ -1,20 +1,20 @@
 "Admin Rooms"
 {
-	// ADMIN_ROOM_CCA_#X is a command an admin must be able to execute to see the admin room
-	"ADMIN_ROOM_XYZ_#0"		"-2971.284, 7190.347, 12912.245117"
-	
-	"ADMIN_ROOM_XYZ_#1"		"-2971.284, 7190.347, 12912.245117"
-	
-	"ADMIN_ROOM_XYZ_#2"		"-9223.968750, -10964.968750, -11535.906250"
-	
-	"ADMIN_ROOM_XYZ_#3"		"-12487.968750, -7344.005371, -11517.906250"
-	
-	"ADMIN_ROOM_XYZ_#4"		"-5663.439, -4523.597, -11599.968750"
-	
-	"ADMIN_ROOM_XYZ_#5"		"-5972.603, -10987.551, -11599.968750"
-	
-	"ADMIN_ROOM_XYZ_#6"		"-12539.155, -10670.798, -11599.968750"
-	
-	"ADMIN_ROOM_XYZ_#7"		"-12238.413, -4213.439, -11599.968750"
-	"ADMIN_ROOM_CCA_#7"		"sm_noclip"
+    // ADMIN_ROOM_CCA_#X is a command an admin must be able to execute to see the admin room
+    "ADMIN_ROOM_XYZ_#0"        "-2971.284, 7190.347, 12912.245117"
+    
+    "ADMIN_ROOM_XYZ_#1"        "-219.807, 10181.010, 12908.563476"
+    
+    "ADMIN_ROOM_XYZ_#2"        "3117.116, 6854.809, 12899.272460"
+    
+    "ADMIN_ROOM_XYZ_#3"        "106.960, 4188.389, 12877.248046"
+    
+    "ADMIN_ROOM_XYZ_#4"        "-5663.439, -4523.597, -11599.968750"
+    
+    "ADMIN_ROOM_XYZ_#5"        "-5972.603, -10987.551, -11599.968750"
+    
+    "ADMIN_ROOM_XYZ_#6"        "-12539.155, -10670.798, -11599.968750"
+    
+    "ADMIN_ROOM_XYZ_#7"        "-12238.413, -4213.439, -11599.968750"
+    "ADMIN_ROOM_CCA_#7"        "sm_noclip"
 }
