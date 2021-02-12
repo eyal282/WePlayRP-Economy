@@ -8,4 +8,5 @@
     "ADMIN_ROOM_XYZ_#2"        "3117.116, 6854.809, 12899.272460"
     
     "ADMIN_ROOM_XYZ_#3"        "106.960, 4188.389, 12877.248046"
+    "ADMIN_ROOM_CCA_#3"        "sm_noclip"
 }
