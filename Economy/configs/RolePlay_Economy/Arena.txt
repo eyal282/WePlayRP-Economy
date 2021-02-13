@@ -13,11 +13,11 @@
     "MAX_JOTD_EXP"            "30"
 
     // ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
-    "ARENA_SPAWN_XYZ_#0"        "-14471.503, 12758.652, 12779.732421"
+    "ARENA_SPAWN_XYZ_#0"        "-9769.606, 12687.434, 12815.914062"
     "ARENA_SPAWN_GLOW_#0"        "255, 0, 0"
     "ARENA_SPAWN_GLOW_NAME_#0"    "Red"
     
-    "ARENA_SPAWN_XYZ_#1"        "-14363.583, 10476.017, 12779.732421"
+    "ARENA_SPAWN_XYZ_#1"        "-9849.667, 15056.859, 12818.438476"
     "ARENA_SPAWN_GLOW_#1"        "255, 128, 0"
     "ARENA_SPAWN_GLOW_NAME_#1"    "Orange"
     
@@ -25,23 +25,23 @@
     "ARENA_SPAWN_GLOW_#2"        "255, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#2"    "Yellow"
     
-    "ARENA_SPAWN_XYZ_#3"        "-9913.602, 10481.992, 12779.732421"
+    "ARENA_SPAWN_XYZ_#3"        "-12094.045, 15125.846, 12834.026367"
     "ARENA_SPAWN_GLOW_#3"        "0, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#3"    "Green"
     
-    "ARENA_SPAWN_XYZ_#4"        "-9849.591, 12688.906, 12779.732421"
+    "ARENA_SPAWN_XYZ_#4"        " -14436.549, 15045.016, 12827.598632"
     "ARENA_SPAWN_GLOW_#4"        "0, 255, 255"
     "ARENA_SPAWN_GLOW_NAME_#4"    "Light Blue"
     
-    "ARENA_SPAWN_XYZ_#5"        "-9892.662, 15011.923, 12779.732421"
+    "ARENA_SPAWN_XYZ_#5"        "-14505.135, 12758.444, 12814.741210"
     "ARENA_SPAWN_GLOW_#5"        "153, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#5"    "Purple"
     
-    "ARENA_SPAWN_XYZ_#6"        "-12085.823, 15063.913, 12779.732421"
+    "ARENA_SPAWN_XYZ_#6"        "-14434.616, 10436.289, 12826.345703"
     "ARENA_SPAWN_GLOW_#6"        "255, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#6"    "Pink"
     
-    "ARENA_SPAWN_XYZ_#7"        "-14401.343, 15002.436, 12779.732421"
+    "ARENA_SPAWN_XYZ_#7"        "-12104.515, 10417.585, 12822.523437"
     "ARENA_SPAWN_GLOW_#7"        "128, 128, 128"
     "ARENA_SPAWN_GLOW_NAME_#7"    "Grey"
 }
