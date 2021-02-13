@@ -42,7 +42,7 @@
     "DUEL_XYZ_SECOND_#11"    "-7.9845, -14,194.031, -15251.96875"
     
     
-    "DUEL_MIN_WAGE"        "1000"
-    "DUEL_MAX_WAGE"        "300000"
+    "DUEL_MIN_WAGE"        "100"
+    "DUEL_MAX_WAGE"        "600000"
     "DUEL_TAX"        "5.0"
 }
