@@ -1,6 +1,6 @@
 "Market Shop"
 {
-	"MAX_FOOD"			"10000"
+	"MAX_FOOD"			"2500"
 	"FOOD_SELL_MULTIPLIER"		"0.6"
 
 	"FOOD_STORE_ROB_TIME"		"60"
