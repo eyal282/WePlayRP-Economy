@@ -12,36 +12,38 @@
     "MIN_JOTD_EXP"            "10"
     "MAX_JOTD_EXP"            "30"
 
+
     // ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
-    "ARENA_SPAWN_XYZ_#0"        "1083.335, -11155.279, 5358.653320"
+    "ARENA_SPAWN_XYZ_#0"        "-11312.832, -7483.644, -11678.268554"
     "ARENA_SPAWN_GLOW_#0"        "255, 0, 0"
     "ARENA_SPAWN_GLOW_NAME_#0"    "Red"
     
-    "ARENA_SPAWN_XYZ_#1"        "736.328, -12808.538, 5356.065429"
+    "ARENA_SPAWN_XYZ_#1"        "-11252.944, -5213.679, -11678.268554"
     "ARENA_SPAWN_GLOW_#1"        "255, 128, 0"
     "ARENA_SPAWN_GLOW_NAME_#1"    "Orange"
     
-    "ARENA_SPAWN_XYZ_#2"        "-1092.991, -13059.855, 5355.585937"
+    "ARENA_SPAWN_XYZ_#2"        "-8920.563, -5154.624, -11678.268554"
     "ARENA_SPAWN_GLOW_#2"        "255, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#2"    "Yellow"
     
-    "ARENA_SPAWN_XYZ_#3"        "-2927.977, -12777.309, 5352.254882"
+    "ARENA_SPAWN_XYZ_#3"        "-6708.450, -5241.036, -11678.268554"
     "ARENA_SPAWN_GLOW_#3"        "0, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#3"    "Green"
     
-    "ARENA_SPAWN_XYZ_#4"        "-3278.884, -11155.674, 5367.877441"
+    "ARENA_SPAWN_XYZ_#4"        "-6647.104, -7568.664, -11678.268554"
     "ARENA_SPAWN_GLOW_#4"        "0, 255, 255"
     "ARENA_SPAWN_GLOW_NAME_#4"    "Light Blue"
     
-    "ARENA_SPAWN_XYZ_#5"        "-2991.941, -9582.249, 5362.663085"
+    "ARENA_SPAWN_XYZ_#5"        "-6629.634, -7575.737, -11678.268554"
     "ARENA_SPAWN_GLOW_#5"        "153, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#5"    "Purple"
     
-    "ARENA_SPAWN_XYZ_#6"        "-1017.739, -9258.022, 5357.364746"
+    "ARENA_SPAWN_XYZ_#6"        "-6707.237, -9809.522, -11678.268554"
     "ARENA_SPAWN_GLOW_#6"        "255, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#6"    "Pink"
     
-    "ARENA_SPAWN_XYZ_#7"        "658.866, -9558.847, 5363.374023"
+    "ARENA_SPAWN_XYZ_#7"        "-8951.465, -9840.203, -11678.268554"
     "ARENA_SPAWN_GLOW_#7"        "128, 128, 128"
     "ARENA_SPAWN_GLOW_NAME_#7"    "Grey"
 }
+
