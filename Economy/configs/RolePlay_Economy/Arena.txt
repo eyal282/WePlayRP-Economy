@@ -14,35 +14,35 @@
 
 
     // ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
-    "ARENA_SPAWN_XYZ_#0"        "-11253.634, -9794.882, -11678.268554"
+    "ARENA_SPAWN_XYZ_#0"        "-9789.114, 12688.396, 12779.732421"
     "ARENA_SPAWN_GLOW_#0"        "255, 0, 0"
     "ARENA_SPAWN_GLOW_NAME_#0"    "Red"
     
-    "ARENA_SPAWN_XYZ_#1"        "-11333.200, -7473.897, -11678.268554"
+    "ARENA_SPAWN_XYZ_#1"        "-9859.264, 10446.318, 12779.732421"
     "ARENA_SPAWN_GLOW_#1"        "255, 128, 0"
     "ARENA_SPAWN_GLOW_NAME_#1"    "Orange"
     
-    "ARENA_SPAWN_XYZ_#2"        "-11271.380, -5237.247, -11678.268554"
+    "ARENA_SPAWN_XYZ_#2"        "-12104.858, 10439.050, 12779.732421"
     "ARENA_SPAWN_GLOW_#2"        "255, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#2"    "Yellow"
     
-    "ARENA_SPAWN_XYZ_#3"        "-8918.478, -5185.774, -11678.268554"
+    "ARENA_SPAWN_XYZ_#3"        "-14400.546, 10471.706, 12779.732421"
     "ARENA_SPAWN_GLOW_#3"        "0, 255, 0"
     "ARENA_SPAWN_GLOW_NAME_#3"    "Green"
     
-    "ARENA_SPAWN_XYZ_#4"        "-6693.092, -5237.922, -11678.268554"
+    "ARENA_SPAWN_XYZ_#4"        "-14500.243, 12767.191, 12779.732421"
     "ARENA_SPAWN_GLOW_#4"        "0, 255, 255"
     "ARENA_SPAWN_GLOW_NAME_#4"    "Light Blue"
     
-    "ARENA_SPAWN_XYZ_#5"        "-6652.737, -7574.287, -11678.268554"
+    "ARENA_SPAWN_XYZ_#5"        "-14417.452, 15038.791, 12779.732421"
     "ARENA_SPAWN_GLOW_#5"        "153, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#5"    "Purple"
     
-    "ARENA_SPAWN_XYZ_#6"        "-6733.354, -9806.581, -11678.268554"
+    "ARENA_SPAWN_XYZ_#6"        "-12080.729, 15132.779, 12779.732421"
     "ARENA_SPAWN_GLOW_#6"        "255, 0, 255"
     "ARENA_SPAWN_GLOW_NAME_#6"    "Pink"
     
-    "ARENA_SPAWN_XYZ_#7"        "-8941.771, -9853.007, -11678.268554"
+    "ARENA_SPAWN_XYZ_#7"        "-9864.593, 15018.916, 12779.732421"
     "ARENA_SPAWN_GLOW_#7"        "128, 128, 128"
     "ARENA_SPAWN_GLOW_NAME_#7"    "Grey"
 }
