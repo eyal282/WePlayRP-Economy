@@ -23,4 +23,6 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/MoneySack.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/AdminRooms.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Duels.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/Bank.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/Jail.txt"
 }
