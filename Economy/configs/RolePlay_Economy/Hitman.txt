@@ -47,4 +47,8 @@
 	"JOB_NAME_LVL_#9"				"Killer"
 	"JOB_NAME_LVL_#10"				"Assassin"
 	
+	// EXP and money multiplier when hitman gets a job from the server.
+	"HITMAN_SERVER_EXP_MULTIPLIER"			"0.1"
+	"HITMAN_SERVER_CASH_MULTIPLIER"			"0.1"
+	
 }
