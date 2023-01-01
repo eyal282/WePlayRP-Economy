@@ -76,9 +76,9 @@
 	"JOB_NAME_LVL_#9"				"Bandit"
 	"JOB_NAME_LVL_#10"				"Sneak Thief"
 	
-	// List of item names that cannot be stolen. Cocaine is hardcoded impossible to steal for obvious reasons.
+	// List of item names that cannot be stolen. Cocaine is hardcoded in Drug Dealer's Eco as well.
 	"NO_STEAL_ITEMS_#0"				"AWP"
-	"NO_STEAL_ITEMS_#1"				"Negev"
+	"NO_STEAL_ITEMS_#1"				"COCS"
 
 
 }
