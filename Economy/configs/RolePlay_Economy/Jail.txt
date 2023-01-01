@@ -4,9 +4,19 @@
     // Jail cells are found in csgo/addons/sourcemod/configs/jb_cells.ini
     "AFK_XYZ"        "1016.159, 5723.200, 2136.031250"
     
-    // I might add Jail Cells in the future, but here is how it would look:
     "JAIL_CELL_XYZ_#0"      "1016.159, 5723.200, 2136.031250"
     "JAIL_CELL_XYZ_#1"      "1016.159, 5723.200, 2136.031250"
     "JAIL_CELL_XYZ_#2"      "1016.159, 5723.200, 2136.031250"
+    
+    // Not always used, these are the cells for players who got normal jail for 10+ minutes.
+    "JAIL_CELL_VIP_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    
+    
+    // Cells for admin jail, usually only one.
+    "JAIL_CELL_ADMIN_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    
+    
+    
+    
     
 }
