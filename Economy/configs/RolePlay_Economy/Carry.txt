@@ -1,0 +1,5 @@
+"Carry"
+{
+   "CARRY_COOLDOWN"       "20.0"
+    "CARRY_SHOOT_COOLDOWN"    "1.5"
+}
