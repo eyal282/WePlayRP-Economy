@@ -25,4 +25,5 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Duels.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Bank.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Jail.txt"
+	"Plugin"	"Path_SM/configs/RolePlay_Economy/Carry.txt"
 }
