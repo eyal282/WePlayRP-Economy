@@ -1,5 +1,6 @@
 "Carry"
 {
-   "CARRY_COOLDOWN"       "20.0"
-    "CARRY_SHOOT_COOLDOWN"    "1.5"
+   "CARRY_COOLDOWN"                   "20.0"
+   "CARRY_SHOOT_COOLDOWN"           "1.5"
+   "CARRY_FALL_DAMAGE_MULTIPLIER"   "2.0"
 }
