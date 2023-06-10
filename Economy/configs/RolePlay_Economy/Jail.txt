@@ -3,16 +3,18 @@
     // All XYZ are coordinates which can be found with "!xyz"
     "AFK_XYZ"        "1016.159, 5723.200, 2136.031250"
     
-    "JAIL_CELL_XYZ_#0"      "1016.159, 5723.200, 2136.031250"
-    "JAIL_CELL_XYZ_#1"      "1016.159, 5723.200, 2136.031250"
-    "JAIL_CELL_XYZ_#2"      "1016.159, 5723.200, 2136.031250"
+    "JAIL_CELL_XYZ_#0"      "955.059, 871.813, 16.031250"
+    "JAIL_CELL_XYZ_#1"      "939.113, 683.506, 16.031250"
+    "JAIL_CELL_XYZ_#2"      "937.817, 469.080, 16.031250"
+    "JAIL_CELL_XYZ_#3"      "928.300, 255.549, 16.031250"
+    "JAIL_CELL_XYZ_#4"      "931.721, 56.711, 16.031250"
     
     // Not always used, these are the cells for players who got normal jail for 10+ minutes.
-    "JAIL_CELL_VIP_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    "JAIL_CELL_VIP_XYZ_#0"     "955.059, 871.813, 16.031250"
     
     
     // Cells for admin jail, usually only one.
-    "JAIL_CELL_ADMIN_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    "JAIL_CELL_ADMIN_XYZ_#0"     "1134.649, -162.637, 16.031250"
     
     
     
